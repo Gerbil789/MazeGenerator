@@ -6,11 +6,12 @@ https://www.sfml-dev.org/tutorials/2.5/
 You need to install it if you want to run it.  
 Then you can compile it with makefile.
 
-Program takes 4 (optional) argumets
-First argument:  
-Choose algorithm to generate maze
-    0 = DepthFirstSearch (default)
-    1 = PrimsAlgrorithm
+Program takes 4 (optional) argumets  
+  
+First argument:
+Choose algorithm to generate maze  
+    0 = DepthFirstSearch (default)  
+    1 = PrimsAlgrorithm  
     
 Second argument:
   Choose algortihm to solve maze  
