@@ -31,9 +31,12 @@ Example:
   ./mazeGenerator 1 1 8 12  
 
 
-https://user-images.githubusercontent.com/67593297/228971483-fd6218fe-48bd-4d13-993d-9a0b30684739.mp4
+https://user-images.githubusercontent.com/67593297/228971483-fd6218fe-48bd-4d13-993d-9a0b30684739.mp4  
 
-
+  
+    
 TO DO:  
 DepthFisrtSearch algorithm for solving maze sometimes does not draw full path.  
-Some algorithms can be more optimized.
+Some algorithms can be more optimized.  
+Code cleanup.  
+Add more comments.
