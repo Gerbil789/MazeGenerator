@@ -1,5 +1,5 @@
 # MazeGenerator
-C++ program that can generate and solve maze
+C++ program that can generate and solve a maze
 
 This program is using SFML library for visualization.   
 https://www.sfml-dev.org/tutorials/2.5/  
@@ -29,3 +29,11 @@ Example:
   ./mazeGenerator   
   ./mazeGenerator 0 0 16 16  
   ./mazeGenerator 1 1 8 12  
+
+
+https://user-images.githubusercontent.com/67593297/228971483-fd6218fe-48bd-4d13-993d-9a0b30684739.mp4
+
+
+TO DO:  
+DepthFisrtSearch algorithm for solving maze sometimes does not draw full path.  
+Some algorithms can be more optimized.
